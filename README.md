@@ -90,3 +90,18 @@ Este reto será evaluado sobre lo siguiente:
 * Indentación
 * Archivo `README.md` actualizado y correctamente redactado
 * Uso de comentarios para hacer tu código más legible
+
+-------------------------------
+
+# Descripcion de trabajo
+
+## Tipografía
+Montserrat.
+
+##Paleta de colores
+
+1. Botones, hover: #FF00BF
+2. Fondo de footer: #333447
+3. Título del formulario: #352384
+4. Texto del formulario: #728099
+5. Gradiente morado: linear-gradient(#76278F, #2B1E66);

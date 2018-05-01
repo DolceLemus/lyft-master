@@ -1,3 +1,30 @@
-/*
- * Estilos de tu proyecto
- */
+section,header{
+    box-sizing: border-box;
+    width: 100%;
+}
+.background{
+    background: url(./../assets/images/hero.gif);
+    width: 100%;
+    background-size: cover ;
+}
+
+/* fonts */
+.title-white, .text-white{
+    color: white;
+}
+
+/* seccion phone */
+.description-phone,.image-phone{
+    display: inline-block;
+}
+
+.description-phone{
+    width: 35%;
+}
+
+.image-phone{
+    width: 35%;
+}
+.phone{
+    width: 100%;
+}
